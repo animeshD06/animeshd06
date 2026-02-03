@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Mandar Joshi! 👋
+# Hi there, I'm Animesh ! 👋
 
 ### 🚀 About Me
 I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development and Python-based projects**. I love exploring **DSA** alongside my projects to strengthen my problem-solving skills.
@@ -43,5 +43,5 @@ I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development a
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/animesh._.dubey_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animeshabhidubey182@gmail.com)
-### 🔥 Streaks & Contributions
+
 
